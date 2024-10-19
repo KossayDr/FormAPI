@@ -26,7 +26,7 @@ The user can fill out a form, upload images and write notes before submitting th
 1. Clone the repository:
     ```bash
     git clone https://github.com/KossayDr/FormAPI.git
-    cd Task-management
+    cd FormAPI
 
     ```
 
